@@ -1,0 +1,16 @@
+export 'nutrition_calculator.dart';
+export 'exercise_service.dart';
+export 'auth_service.dart';
+export 'firebase_auth_service.dart';
+export 'food_service.dart';
+export 'adaptive_engine_service.dart';
+export 'subscription_service.dart';
+export 'local_storage_service.dart';
+export 'payment_service.dart';
+export 'report_service.dart';
+export 'habit_service.dart';
+export 'sync_service.dart';
+export 'excel_service.dart';
+export 'streak_service.dart';
+export 'competitor_service.dart';
+export 'notification_service.dart';
